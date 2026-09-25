@@ -1,4 +1,4 @@
-# Autonomous Driving Logic Simulation
+# Autonomous Driving Logic Simulation (INTERN ID - CITS9171)
 
 A feature-rich **2D top-down autonomous driving simulation** built with Python + Pygame.  
 The car drives itself using LiDAR sensors, a potential-field controller, waypoint path planning, traffic light compliance, and speed-zone awareness — or you can take the wheel yourself in **manual mode**.
